@@ -25,7 +25,7 @@ SECRET_KEY = 'ydo$*ke4q5ej4-$av51k!&7^_i4a-_n=u_+#s=g#m@l_&1@!8l'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', 'r007833r.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'jspharenas.pythonanywhere.com']
 
 
 # Application definition
